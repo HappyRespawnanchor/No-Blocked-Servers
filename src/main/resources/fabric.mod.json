@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "no-blocked-servers",
+  "version": "${version}",
+  "name": "No Blocked Servers",
+  "description": "Allow you to join servers blocked by Mojang.",
+  "icon": "assets/no-blocked-servers/icon.png",
+  "authors": [
+    "HappyRespawnanchor"
+  ],
+  "contact": {
+    "sources": "https://github.com/HappyRespawnanchor/NoBlockedServers"
+  },
+  "license": "WTFPL",
+  "environment": "*",
+  "entrypoints": {
+    "main": [],
+    "client": []
+  },
+  "mixins": [
+    "no-blocked-servers.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.7",
+    "minecraft": ">=1.17",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

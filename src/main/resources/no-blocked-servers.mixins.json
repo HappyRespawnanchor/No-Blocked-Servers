@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.happyrespawnanchor.noblockedservers.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BlockedServersMixin",
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+  ]
+}
