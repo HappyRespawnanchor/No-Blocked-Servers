@@ -1,0 +1,31 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+#issueTrackerURL = ""
+license = "WTFPL"
+
+[[mods]]
+modId = "no_blocked_servers"
+version = "${version}"
+displayName = "No Blocked Servers"
+authors = "HappyRespawnanchor"
+description = '''
+Join a server that has been banned by Mojang for violating Minecraft EULA.
+'''
+#logoFile = ""
+
+[[dependencies.no_blocked_servers]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.0,)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.no_blocked_servers]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[mixins]]
+config = "no_blocked_servers-common.mixins.json"

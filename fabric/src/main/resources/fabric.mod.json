@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "no_blocked_servers",
+  "version": "${version}",
+  "name": "No Blocked Servers",
+  "description": "Join a server that has been banned by Mojang for violating Minecraft EULA.",
+  "authors": [
+    "HappyRespawnanchor"
+  ],
+  "contact": {
+    "sources": "https://github.com/HappyRespawnanchor/NoBlockedServers"
+  },
+  "license": "WTFPL",
+  "icon": "assets/no_blocked_servers/icon.png",
+  "environment": "client",
+  "entrypoints": {
+  },
+  "mixins": [
+    "no_blocked_servers-common.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": ">=1.17",
+    "java": ">=16"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
