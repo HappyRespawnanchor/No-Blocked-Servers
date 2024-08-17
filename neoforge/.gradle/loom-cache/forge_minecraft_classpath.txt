@@ -1,6 +1,6 @@
-/home/Daniel/.gradle/caches/fabric-loom/1.21/neoforge/21.0.157/client-extra.jar
-/home/Daniel/.gradle/caches/modules-2/files-2.1/net.neoforged.fancymodloader/earlydisplay/4.0.21/6db9791ba9e498db6521b84595b191f419481432/earlydisplay-4.0.21.jar
-/home/Daniel/.gradle/caches/fabric-loom/forge/transformed-dependencies-v1/net/neoforged/fancymodloader/c66c6dfdeba221c3d5b61be98c832e989484c1cf04b9c0f084a55480c8704784/loader/4.0.21/loader-4.0.21.jar
+/home/Daniel/.gradle/caches/fabric-loom/1.21/neoforge/21.0.167/client-extra.jar
+/home/Daniel/.gradle/caches/modules-2/files-2.1/net.neoforged.fancymodloader/earlydisplay/4.0.23/c9491ed7df998cf229eae9c7364ee9ab6f26bcfe/earlydisplay-4.0.23.jar
+/home/Daniel/.gradle/caches/fabric-loom/forge/transformed-dependencies-v1/net/neoforged/fancymodloader/002cb9a4a23d6cee8e48f7a4b77a0d7b12c116f86de934b88161085f858ec72d/loader/4.0.23/loader-4.0.23.jar
 /home/Daniel/.gradle/caches/modules-2/files-2.1/net.neoforged/coremods/7.0.3/9147e6f638b4272b3bd5fc8f92ad37802512c6c/coremods-7.0.3.jar
 /home/Daniel/.gradle/caches/modules-2/files-2.1/cpw.mods/modlauncher/11.0.4/6619d4812a3c092310d521ebc4c9503727563df7/modlauncher-11.0.4.jar
 /home/Daniel/.gradle/caches/modules-2/files-2.1/cpw.mods/bootstraplauncher/2.0.2/1a2d076cbc33b0520cbacd591224427b2a20047d/bootstraplauncher-2.0.2.jar
@@ -94,5 +94,5 @@
 /home/Daniel/.gradle/caches/modules-2/files-2.1/org.lwjgl/lwjgl/3.3.3/1713758e3660ba66e1e954396fd18126038b33c0/lwjgl-3.3.3-natives-linux.jar
 /home/Daniel/.gradle/caches/modules-2/files-2.1/org.lz4/lz4-java/1.8.0/4b986a99445e49ea5fbf5d149c4b63f6ed6c6780/lz4-java-1.8.0.jar
 /home/Daniel/.gradle/caches/modules-2/files-2.1/io.github.juuxel/unprotect/1.2.0/49cc229a0469f28fae41593a9537743ac6a951dc/unprotect-1.2.0.jar
-/home/Daniel/.gradle/caches/fabric-loom/minecraftMaven/net/minecraft/neoforge-21.0.157-minecraft-merged/1.21-loom.mappings.1_21.layered+hash.652182843-v2-neoforge-21.0.157/neoforge-21.0.157-minecraft-merged-1.21-loom.mappings.1_21.layered+hash.652182843-v2-neoforge-21.0.157.jar
+/home/Daniel/.gradle/caches/fabric-loom/minecraftMaven/net/minecraft/neoforge-21.0.167-minecraft-merged/1.21-loom.mappings.1_21.layered+hash.652182843-v2-neoforge-21.0.167/neoforge-21.0.167-minecraft-merged-1.21-loom.mappings.1_21.layered+hash.652182843-v2-neoforge-21.0.167.jar
 /home/Daniel/.gradle/caches/modules-2/files-2.1/net.fabricmc/dev-launch-injector/0.2.1+build.8/da8bef7e6e2f952da707f282bdb46882a0fce5e3/dev-launch-injector-0.2.1+build.8.jar

@@ -1,6 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "[4,)"
-#issueTrackerURL = ""
+displayURL = "https://github.com/HappyRespawnanchor/no-blocked-servers"
+issueTrackerURL = "https://github.com/HappyRespawnanchor/no-blocked-servers/issues"
 license = "WTFPL"
 
 [[mods]]
@@ -9,16 +10,17 @@ version = "${version}"
 displayName = "No Blocked Servers"
 authors = "HappyRespawnanchor"
 description = '''
-Join a server that has been banned by Mojang for violating Minecraft EULA.
+Join a server that has been blocked by Mojang for violating Minecraft EULA.
 '''
-#logoFile = ""
+side = "CLIENT"
+logoFile = "no_blocked_server_logo.png"
 
 [[dependencies.no_blocked_servers]]
 modId = "neoforge"
 type = "required"
 versionRange = "[21.0,)"
 ordering = "NONE"
-side = "CLIENT"
+side = "BOTH"
 
 [[dependencies.no_blocked_servers]]
 modId = "minecraft"
