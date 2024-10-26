@@ -7,7 +7,7 @@ pluginManagement {
     }
 }
 
-rootProject.name = 'no_blocked_servers'
+rootProject.name = 'No-Blocked-Servers'
 
 include 'common'
 include 'fabric'
