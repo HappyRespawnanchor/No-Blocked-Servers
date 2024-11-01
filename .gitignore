@@ -1,20 +1,25 @@
-run/*
-build/*
-/build/
-/.gradle/
-/common/.gradle/
-/common/build/
-/neoforge/.gradle/
-/neoforge/build/
-/neoforge/run/
-/fabric/.gradle/
-/fabric/build/
-/fabric/run/
-/run/
-/common/src/main/generated/
-/neoforge/src/main/generated/
-/fabric/src/main/generated/
-/remappedSrc/
-/*/.architectury-transformer/
-/.idea/*
-./.idea
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# Files from Forge MDK
+forge*changelog.txt

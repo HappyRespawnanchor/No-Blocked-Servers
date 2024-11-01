@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/dev.architectury.com.happyrespawnanchor.no_blocked_servers.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/dev.architectury.com.happyrespawnanchor.no_blocked_servers.common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/dev.architectury.com.happyrespawnanchor.no_blocked_servers.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/dev.architectury.com.happyrespawnanchor.no_blocked_servers.common.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/dev.architectury.com.happyrespawnanchor.no_blocked_servers.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/dev.architectury.com.happyrespawnanchor.no_blocked_servers.common.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/dev.architectury.com.happyrespawnanchor.no_blocked_servers.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/dev.architectury.com.happyrespawnanchor.no_blocked_servers.fabric.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/dev.architectury.com.happyrespawnanchor.no_blocked_servers.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/dev.architectury.com.happyrespawnanchor.no_blocked_servers.fabric.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/dev.architectury.com.happyrespawnanchor.no_blocked_servers.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/dev.architectury.com.happyrespawnanchor.no_blocked_servers.neoforge.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/dev.architectury.com.happyrespawnanchor.no_blocked_servers.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/dev.architectury.com.happyrespawnanchor.no_blocked_servers.neoforge.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/fabric.no_blocked_servers.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/fabric.no_blocked_servers.fabric.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/fabric.no_blocked_servers.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/fabric.no_blocked_servers.fabric.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/neoforge.no_blocked_servers.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/neoforge.no_blocked_servers.neoforge.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/neoforge.no_blocked_servers.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/neoforge.no_blocked_servers.neoforge.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/no-blocked-servers.no_blocked_servers.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/no-blocked-servers.no_blocked_servers.common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/no-blocked-servers.no_blocked_servers.common.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/common/no-blocked-servers.no_blocked_servers.common.main~1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/no-blocked-servers.no_blocked_servers.common.test~1.iml" filepath="$PROJECT_DIR$/.idea/modules/common/no-blocked-servers.no_blocked_servers.common.test~1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/no_blocked_servers.iml" filepath="$PROJECT_DIR$/.idea/modules/no_blocked_servers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/no_blocked_servers.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/no_blocked_servers.common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/no_blocked_servers.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/no_blocked_servers.common.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/no_blocked_servers.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/no_blocked_servers.common.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/no_blocked_servers.fabric.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/no_blocked_servers.fabric.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/no_blocked_servers.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/no_blocked_servers.fabric.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/no_blocked_servers.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/no_blocked_servers.fabric.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/no_blocked_servers.neoforge.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/no_blocked_servers.neoforge.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/no_blocked_servers.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/no_blocked_servers.neoforge.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/no_blocked_servers.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/no_blocked_servers.neoforge.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/No-Blocked-Servers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/No-Blocked-Servers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/No-Blocked-Servers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/No-Blocked-Servers.test.iml" />
     </modules>
   </component>
 </project>
