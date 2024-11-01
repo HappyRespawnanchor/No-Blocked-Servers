@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.happyrespawnanchor.noblockedservers.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "no_blocked_servers.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ServerNameResolverMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
